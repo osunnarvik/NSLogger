@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'NSLogger'
-  s.version  = '1.2_ios8'
+  s.version  = '1.2.ios8'
   s.license  = 'BSD'
   s.summary  = 'A modern, flexible logging tool.'
   s.homepage = 'https://github.com/fpillet/NSLogger'
